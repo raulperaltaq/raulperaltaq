@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+🌱 I’m currently learning  <br>SQL window functions avanzadas — explorando particiones, frame boundaries y cómo aplicarlas en flujos robustos y accesibles.  <br><br>🔭 I’m currently working on  <br>Proyectos SaaS en Costa Rica, optimizando la experiencia de onboarding, seguridad en migraciones y estrategias de marca auténticas con impacto cultural.  <br><br>💬 Ask me about  <br>Troubleshooting en CLI y entornos de desarrollo, automatización de tareas, Supabase/Postgres migrations seguras, branding modular, y cómo hacer accesibles conceptos técnicos complejos.  <br><br>⚡ Fun fact  <br>Me apasiona tanto la seguridad y la claridad en workflows como la creatividad en la dirección de marcas locales — disfruto unir lo técnico con lo cultural para generar confianza y diferenciación.
 
-<!--
-**raulperaltaq/raulperaltaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raulpq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raulperaltaq@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raulperaltaq&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=raulperaltaq&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulperaltaq&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
