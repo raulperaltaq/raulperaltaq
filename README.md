@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+## Data-Science & Coding
+
 🌱 I’m currently learning  <br>SQL window functions avanzadas — explorando particiones, frame boundaries y cómo aplicarlas en flujos robustos y accesibles.  <br><br>🔭 I’m currently working on  <br>Proyectos SaaS en Costa Rica, optimizando la experiencia de onboarding, seguridad en migraciones y estrategias de marca auténticas con impacto cultural.  <br><br>💬 Ask me about  <br>Troubleshooting en CLI y entornos de desarrollo, automatización de tareas, Supabase/Postgres migrations seguras, branding modular, y cómo hacer accesibles conceptos técnicos complejos.  <br><br>⚡ Fun fact  <br>Me apasiona tanto la seguridad y la claridad en workflows como la creatividad en la dirección de marcas locales — disfruto unir lo técnico con lo cultural para generar confianza y diferenciación.
 
 
